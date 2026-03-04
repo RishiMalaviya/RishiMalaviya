@@ -106,4 +106,4 @@ I am a Computer Science undergraduate focused on Artificial Intelligence, data s
 # CONNECT
 
 LinkedIn → your-linkedin-link  
-Email → your-email  
+Email → rishimalaviya05@gmail.com  
