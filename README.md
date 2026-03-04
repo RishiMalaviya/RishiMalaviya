@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=SYSTEM%20VISITS&color=00ffcc&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=RishiMalaviya&label=SYSTEM%20VISITS&color=00ffcc&style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="your-linkedin-link">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email">
-    <img src="https://img.shields.io/badge/Email-Direct_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:rishimalaviya05@gmail.com">
+    <img src="https://img.shields.io/badge/rishimalaviya05@gmail.com?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -85,11 +85,11 @@ I am a Computer Science undergraduate focused on Artificial Intelligence, data s
 # PERFORMANCE METRICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishiMalaviya&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishiMalaviya&theme=radical&hide_border=true"/>
 </p>
 
 ---
